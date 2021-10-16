@@ -1,0 +1,37 @@
+.container{
+	background-color: #333333;
+	color: white;
+}
+.footer{
+	background-color: gray;
+	border-top: 1px solid gold;
+	padding-top: 20px;
+}
+.row{
+	padding-top: 10px;
+}
+.row h2{
+	color: gold;
+	text-align: center;
+}
+input{
+	background-color: red;
+	padding: 10px 20px;
+	border-radius: 10px;
+}
+form{
+	text-align: center;
+}
+.mycode{
+	display: none;
+	background-color: #333333;
+	color: while;
+	text-align: center;
+	max-width: fit-content;
+}
+.mycode th{
+	color: white;
+}
+.mycode td{
+	color: white;
+}
